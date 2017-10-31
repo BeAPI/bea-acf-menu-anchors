@@ -1,5 +1,4 @@
 # BEA - ACF Menu anchors
-========================
 
 Display all ACF's flexible rows as anchors into menu items selector.
 
