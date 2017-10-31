@@ -1,0 +1,15 @@
+{
+  "name": "bea/bea-acf-menu-anchors",
+  "description": "Display all ACF's flexible rows as anchors into menu items selector.",
+  "license": "GPL-2.0",
+  "authors": [
+    {
+      "name": "Be API",
+      "email": "technical@beapi.fr"
+    }
+  ],
+  "type" : "wordpress-plugin",
+  "require" : {
+    "composer/installers" : "~1.0"
+  }
+}
