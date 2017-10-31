@@ -1,10 +1,10 @@
 <?php
 /*
  Plugin Name: BEA Menu Anchors
- Version: 1.0.0
+ Version: 1.0.1
  Version Boilerplate: 2.1.2
- Plugin URI: http://www.beapi.fr
- Description: Add custom metabox for nav menus with #anchors ( for HP )
+ Plugin URI: https://beapi.fr
+ Description: Display all ACF's flexible rows as anchors into menu items selector.
  Author: BE API Technical team
  Author URI: http://www.beapi.fr
  Domain Path: languages
@@ -35,7 +35,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 }
 
 // Plugin constants
-define( 'BEA_MENU_ANCHORS_VERSION', '1.0.0' );
+define( 'BEA_MENU_ANCHORS_VERSION', '1.0.1' );
 define( 'BEA_MENU_ANCHORS_MIN_PHP_VERSION', '5.4' );
 
 // Plugin URL and PATH
